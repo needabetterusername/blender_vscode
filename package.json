@@ -1,8 +1,8 @@
 {
   "name": "blender-development",
-  "displayName": "Blender Development",
+  "displayName": "(Pre-Release) Blender Development",
   "description": "Tools to simplify Blender development.",
-  "version": "0.0.16",
+  "version": "0.0.17-fix-111",
   "publisher": "JacquesLucke",
   "license": "MIT",
   "engines": {
@@ -29,7 +29,7 @@
   "main": "./out/extension",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JacquesLucke/blender_vscode"
+    "url": "https://github.com/needabetterusername/blender_vscode"
   },
   "bugs": {
     "url": "https://github.com/JacquesLucke/blender_vscode/issues"
